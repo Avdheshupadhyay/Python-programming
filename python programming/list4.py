@@ -1,0 +1,9 @@
+l=["ram",6,9,'shivay','ma']
+t=l
+#t.append(1)
+#t.sort()
+#t.reverse()
+#t.count()
+#t.replace(200,3)
+t.pop(1)
+print(t)
